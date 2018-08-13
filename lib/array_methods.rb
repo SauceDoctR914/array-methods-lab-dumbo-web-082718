@@ -8,7 +8,7 @@ newArray
 end
 
 def using_reverse(array)
-thisArray = array.using_reverse
+thisArray = array.reverse
 thisArray
 end
 
